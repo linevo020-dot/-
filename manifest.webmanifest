@@ -1,0 +1,14 @@
+{
+  "name": "地盤改良樁現場施工紀錄 App",
+  "short_name": "改良樁施工",
+  "description": "地盤改良樁現場樁位建檔與施工紀錄系統",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f9fa",
+  "theme_color": "#343a40",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
